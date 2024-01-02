@@ -1,0 +1,13 @@
+body {
+    background-color: white;
+}
+#heading1 {
+color: deepskyblue;
+}
+div {
+    text-align:top; background-color:whitesmoke;
+}
+.codinglab:hover{
+    background-color: rgb(55, 131, 194);
+    color: aliceblue;
+}
